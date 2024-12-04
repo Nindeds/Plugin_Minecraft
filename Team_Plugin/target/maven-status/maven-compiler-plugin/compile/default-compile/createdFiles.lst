@@ -1,0 +1,7 @@
+org\plugin\Team_Management\commands\Team_Manager.class
+org\plugin\Team_Management\listener\TeamMenuListener.class
+org\plugin\Team_Management\commands\TeamMenu.class
+org\plugin\Team_Management\commands\AddTeamCommand.class
+org\plugin\Team_Management\commands\ListTeamsCommand.class
+org\plugin\Team_Management\Team_Management.class
+org\plugin\Team_Management\commands\RemoveTeamCommand.class

@@ -1,0 +1,17 @@
+name: Team_add_del
+version: '1.0-SNAPSHOT'
+main: org.plugin.Team_Management.Team_Management
+api-version: '1.21'
+commands:
+  addteam:
+    description: Ajoute une nouvelle équipe.
+    usage: /addteam <nom>
+  removeteam:
+    description: Supprime une équipe éxistante.
+    usage: /removeteam <nom>
+  listteams:
+    description: Liste toutes les équipes existantes.
+    usage: /list_teams
+  teammenu:
+    description: Ouvre le chestMenue
+    usage: /Team_menu
